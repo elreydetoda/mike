@@ -21,7 +21,7 @@ This file isn't too bad, because it only has the small amount of text at teh ver
 This one looks bad, if you look the whole bottom part of the image is messed up. Very noticable!
 
 ### Resources
-Here are some resources that we listed during the class
+Here are some resources that we listed during the class:
   
 + [steghide](http://steghide.sourceforge.net/)
 + [openpuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html)
