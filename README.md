@@ -1,4 +1,4 @@
-#Hidderthingy stego!!!
+#Hiderthignyy.py stego!!!
 ## Strings
 If you are looking at these pictures you might be wondering what this is...
 Well for the 49th Security Division @wonkeymonkey created a script that would hide words inside of .png files
