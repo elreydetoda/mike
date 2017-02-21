@@ -24,7 +24,5 @@ This one looks bad, if you look the whole bottom part of the image is messed up.
 Here are some resources that we listed during the class:
   
 + [steghide](http://steghide.sourceforge.net/)
-+ <a href="http://steghide.sourceforge.net/" target="_blank">steghide</a>
-+ [steghide](http://steghide.sourceforge.net/){:target="_blank"}
 + [openpuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html)
 + [deepsound](http://www.jpinsoft.net/DeepSound/)
